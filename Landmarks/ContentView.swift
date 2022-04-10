@@ -1,15 +1,8 @@
-//
-//  ContentView.swift
-//  Landmarks
-//
-//  Created by Victor Tamayo on 09/04/22.
-//
-
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("Hello, SwiftUI")
             .padding()
     }
 }
