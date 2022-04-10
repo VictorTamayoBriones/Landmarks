@@ -12,6 +12,7 @@
 		F8DBFB58280260C900ECB6FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8DBFB57280260C900ECB6FE /* Assets.xcassets */; };
 		F8DBFB5B280260CA00ECB6FE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8DBFB5A280260CA00ECB6FE /* Preview Assets.xcassets */; };
 		F8DBFB62280281D800ECB6FE /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DBFB61280281D800ECB6FE /* CircleImage.swift */; };
+		F8DBFB642802851100ECB6FE /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8DBFB632802851100ECB6FE /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		F8DBFB57280260C900ECB6FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8DBFB5A280260CA00ECB6FE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F8DBFB61280281D800ECB6FE /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		F8DBFB632802851100ECB6FE /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				F8DBFB57280260C900ECB6FE /* Assets.xcassets */,
 				F8DBFB59280260CA00ECB6FE /* Preview Content */,
 				F8DBFB61280281D800ECB6FE /* CircleImage.swift */,
+				F8DBFB632802851100ECB6FE /* MapView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F8DBFB56280260C400ECB6FE /* ContentView.swift in Sources */,
+				F8DBFB642802851100ECB6FE /* MapView.swift in Sources */,
 				F8DBFB54280260C400ECB6FE /* LandmarksApp.swift in Sources */,
 				F8DBFB62280281D800ECB6FE /* CircleImage.swift in Sources */,
 			);
